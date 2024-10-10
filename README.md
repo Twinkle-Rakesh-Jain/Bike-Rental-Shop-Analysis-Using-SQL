@@ -3,6 +3,9 @@
 ## Project Description:
 In this project, a local bike rental shop owner, Emily, required data insights to help grow her business. The analysis involved querying a SQL database containing data on bikes, rentals, customers, and memberships. The objective was to extract meaningful information related to bike inventory, rental revenue, membership purchases, and customer segmentation. This case study involved writing complex SQL queries to provide Emily with insights into her business operations and performance.
 
+![image](https://github.com/user-attachments/assets/6bc56f0a-c813-4b91-bcea-358e6c5c2baa)
+
+
 ## Execution:
 ### 1. Data Modeling:
 a. Designed relational data models to establish connections between tables, including bikes, rentals, customers, and memberships.
